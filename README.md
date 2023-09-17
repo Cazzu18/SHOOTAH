@@ -7,3 +7,9 @@ Belize themed video game. The objective is to survive as long as possible while 
 
 A - move left
 D - move right
+
+## Screenshots
+
+![Start Screen](https://raw.githubusercontent.com/Cazzu18/SHOOTAH/main/screenshots/start.png)
+
+![Game Screen](https://raw.githubusercontent.com/Cazzu18/SHOOTAH/main/screenshots/game.png)
