@@ -1,12 +1,28 @@
-# SHOOTAH
+# SHOOTAH 
 
-## About
-Belize themed video game. The objective is to survive as long as possible while avoiding enemies that damage you. Note: Only the rice and beans and Garifunas heal you.
+## Overview
+
+Shootah is a Belizean-themed, fast-paced, action-packed shooting game designed to challenge players' reflexes and strategic thinking. It offers multiple difficulty levels, diverse weapons, and immersive gameplay mechanics that keep players engaged.
 
 ## Controls
 
 A - move left
 D - move right
+
+## Contributing
+
+We welcome contributions! To contribute:
+
+Fork the repository.
+
+Create a new branch: git checkout -b feature-name
+
+Commit your changes: git commit -m "Add new feature"
+
+Push to the branch: git push origin feature-name
+
+Open a Pull Request.
+
 
 ## Screenshots
 
